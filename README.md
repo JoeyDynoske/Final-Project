@@ -1,12 +1,7 @@
-# README.txt
-
-  * Team name
-  * Team members and their email addresses
-  * Description and links to the datasets used
-  * An Abstract
+# README
 
 # Team Name:
-'to be determined'
+Optimal Anthill
 
 # Team Members:
 
